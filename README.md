@@ -1,4 +1,4 @@
-###Deep learning-based automated  segmentation  of diffuse large B-cell lymphoma from 3D FDG-PET images for total metabolic tumor volume prediction and clinical applications
+##Deep learning-based automated  segmentation  of diffuse large B-cell lymphoma from 3D FDG-PET images for total metabolic tumor volume prediction and clinical applications
 This is our paper [Deep learning-based automated segmentation of diffuse large B-cell lymphoma fromon 3D FDG-PET images for total metabolic tumor volume prediction and clinical applications] five-fold cross-validation of the weight of each fold.
 ####tutorial
 #####1.Install the nnU-Net required libraries
